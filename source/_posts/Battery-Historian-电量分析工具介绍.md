@@ -28,7 +28,7 @@ Using Docker（通过 Docker 来间接使用 Battery Historian）
 
 Docker下载地址：https://docs.docker.com/engine/installation/
 
-**你会惊奇地发现，Docker 只支持 Mac 和 Windows 10 ，哈哈，让你不用 Mac 开发：**  
+
 
 #### 通过各种配置后从源码构建 ####
 **（1）安装 Go 语言**  
